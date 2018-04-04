@@ -1,4 +1,4 @@
-X = 99
+# X = 99
 
 
 # def f1():
@@ -13,21 +13,22 @@ X = 99
 # f1()
 
 # or
-
-def f1():
-    X = 88
-
-    def f2():
-        print(X)
-
-    return f2
-
-
-action = f1()
-action()
+#
+# def f1():
+#     X = 88
+#
+#     def f2():
+#         print(X)
+#
+#     return f2
+#
+#
+# action = f1()
+# action()
 
 
 # fabric function
+
 def marker(N):
     def action(X):
         return X ** N

@@ -19,5 +19,5 @@ def interseq(seq1, seq2):
 
 
 print(interseq('stas', 'spam'))
-print(interseq([1, 2, 3, 4], (1, 7, 6, 4 )))
+print(interseq([1, 2, 3, 4], (1, 7, 6, 4)))
 
