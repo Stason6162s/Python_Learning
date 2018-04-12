@@ -1,4 +1,20 @@
-counters = [1, 2, 3, 4, 5]
-print(counters)
-print(list(map(lambda x: x + 2, counters)))
-print("'I'm love Python")
+from abc import ABCMeta, abstractmethod
+
+
+class Super(metaclass=ABCMeta):
+    def delegate(self):
+        self.action()
+
+    @abstractmethod
+    def action(self):
+        pass
+
+
+# X=Super()
+
+class Sub(Super):
+    def action(self): print('spam')
+
+
+X = Sub()
+X.delegate()
