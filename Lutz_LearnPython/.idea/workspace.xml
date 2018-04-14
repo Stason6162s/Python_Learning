@@ -14,18 +14,11 @@
       <file leaf-file-name="scippper.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VI_Classes/29_operator_orevloading/scippper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            <state relative-caret-position="306">
+              <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
               <folding>
-                <element signature="e#25#314#0" />
-                <element signature="e#61#101#0" />
                 <element signature="e#141#318#0" />
                 <element signature="e#235#318#0" />
-                <element signature="e#339#450#0" />
-                <element signature="e#375#395#0" />
-                <element signature="e#428#450#0" />
-                <element signature="e#500#676#0" />
-                <element signature="e#639#676#0" />
               </folding>
             </state>
           </provider>
@@ -108,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,22 +109,10 @@
               <item name="Lutz_LearnPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lutz_LearnPython" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Lutz_LearnPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lutz_LearnPython" type="462c0819:PsiDirectoryNode" />
-              <item name="VI_Classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lutz_LearnPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lutz_LearnPython" type="462c0819:PsiDirectoryNode" />
-              <item name="VI_Classes" type="462c0819:PsiDirectoryNode" />
-              <item name="29_operator_orevloading" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,11 +294,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25500527" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49841937" weight="0.32924107" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50105375" side_tool="true" weight="0.32924107" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49894625" weight="0.32924107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -356,48 +339,12 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_18_Arguments/min_find.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_18_Arguments/intersection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_18_Arguments/inter2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_18_Arguments/firstTinker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_18_Arguments/args1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/III_Syntacsis/ConsoleIO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_18_Arguments/min_find.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_18_Arguments/intersection.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_18_Arguments/inter2.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_18_Arguments/firstTinker.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_18_Arguments/args1.py" />
+    <entry file="file://$PROJECT_DIR$/III_Syntacsis/ConsoleIO.py" />
     <entry file="file://$PROJECT_DIR$/references.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -405,196 +352,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/Features1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_17_Scopes/first.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_17_Scopes/nonlocalFunc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1280">
-          <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_17_Scopes/second.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_17_Scopes/scopes1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_17_Scopes/scopes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_17_Scopes/lambdaS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/turnCalled.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/ifDef.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/Features2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/Lambdas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/ListGenerators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/funcgenerators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/mytimer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IV_Functions/timeseq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/V_Modules/changer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/V_Modules/b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/III_Syntacsis/data.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/IV_Functions/Features1.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_17_Scopes/first.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_17_Scopes/nonlocalFunc.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_17_Scopes/second.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_17_Scopes/scopes1.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_17_Scopes/scopes.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/IV_17_Scopes/lambdaS.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/turnCalled.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/ifDef.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/Features2.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/Lambdas.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/ListGenerators.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/funcgenerators.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/mytimer.py" />
+    <entry file="file://$PROJECT_DIR$/IV_Functions/timeseq.py" />
+    <entry file="file://$PROJECT_DIR$/V_Modules/changer.py" />
+    <entry file="file://$PROJECT_DIR$/V_Modules/b.py" />
+    <entry file="file://$PROJECT_DIR$/III_Syntacsis/data.dat" />
     <entry file="file://$PROJECT_DIR$/Modules/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/V_Modules/dir1/dir2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/V_Modules/dir1/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/V_Modules/dir1/dir2/mod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/V_Modules/minmax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/V_Modules/forrmats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/V_Modules/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/V_Modules/mydir.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/V_Modules/metaprogram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/V_Modules/reloadall.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/V_Modules/dir1/dir2/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/V_Modules/dir1/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/V_Modules/dir1/dir2/mod.py" />
+    <entry file="file://$PROJECT_DIR$/V_Modules/minmax.py" />
+    <entry file="file://$PROJECT_DIR$/V_Modules/forrmats.py" />
+    <entry file="file://$PROJECT_DIR$/V_Modules/a.py" />
+    <entry file="file://$PROJECT_DIR$/V_Modules/mydir.py" />
+    <entry file="file://$PROJECT_DIR$/V_Modules/metaprogram.py" />
+    <entry file="file://$PROJECT_DIR$/V_Modules/reloadall.py" />
     <entry file="file://$PROJECT_DIR$/VI_Classes/Employee.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -606,10 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#14#18#0" />
-            <element signature="e#114#125#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -653,23 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
-          <folding>
-            <element signature="e#69#85#1" />
-            <element signature="e#196#258#0" />
-            <element signature="e#309#362#0" />
-            <element signature="e#407#485#0" />
-            <element signature="e#607#984#0" />
-            <element signature="e#725#764#0" />
-            <element signature="e#447#495#0" />
-            <element signature="e#707#747#0" />
-            <element signature="e#856#1185#0" />
-            <element signature="e#891#916#0" />
-            <element signature="e#960#987#0" />
-            <element signature="e#1032#1098#0" />
-            <element signature="e#1132#1185#0" />
-            <element signature="e#1219#1957#0" />
-            <element signature="e#1723#1767#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -705,9 +469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#197#213#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -715,29 +476,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
-          <folding>
-            <element signature="e#18#211#0" />
-            <element signature="e#46#61#0" />
-            <element signature="e#109#124#0" />
-            <element signature="e#175#211#0" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/VI_Classes/29_operator_orevloading/scippper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        <state relative-caret-position="306">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding>
-            <element signature="e#25#314#0" />
-            <element signature="e#61#101#0" />
             <element signature="e#141#318#0" />
             <element signature="e#235#318#0" />
-            <element signature="e#339#450#0" />
-            <element signature="e#375#395#0" />
-            <element signature="e#428#450#0" />
-            <element signature="e#500#676#0" />
-            <element signature="e#639#676#0" />
           </folding>
         </state>
       </provider>
