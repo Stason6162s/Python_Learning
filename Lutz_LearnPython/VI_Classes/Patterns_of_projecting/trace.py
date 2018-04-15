@@ -7,3 +7,7 @@ class Wrapper:
         return getattr(self.wrapper, attrname)
 
 
+if __name__ == '__main__':
+    x = Wrapper([1, 2, 3])
+    x.append(4)
+    print(x.wrapper)
