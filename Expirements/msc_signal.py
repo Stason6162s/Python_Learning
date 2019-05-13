@@ -13,6 +13,7 @@ def benchmark(func):
 def screw_counter(driver_number):
     print('I gotta to be spun %d screws' % driver_number)
 
+
 @benchmark
 def record_torque(driver_number):
     print('I gotta to be record of torques %d' % driver_number)
