@@ -1,6 +1,8 @@
 """
 Storage db form operating memory to a text file
 """
+from Lutz_progrmming_python.chapter_1_preview.Records_storage.init_data import db
+
 db_file_name = 'people-file'
 ENDDB = 'enddb'
 ENDREC = 'endrec'
@@ -49,6 +51,7 @@ def load_db(dbfilename=db_file_name):
 
 
 if __name__ == '__main__':
-    from init_data import db
-
     store_db(db)
+    database = load_db(db_file_name)
+    for key in database:
+        print(f'{key} => \n\t {database[key]}')
