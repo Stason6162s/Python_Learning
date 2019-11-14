@@ -3,7 +3,7 @@ import sys
 
 from PyQt5 import QtWidgets
 
-import Expirements.gui.design as design
+import Prohorenok_pyqt5.Trails.design as design
 
 
 class ExampleApp(QtWidgets.QMainWindow, design.Ui_MainWindow):
