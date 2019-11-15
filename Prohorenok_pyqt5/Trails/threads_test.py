@@ -5,7 +5,7 @@ from PyQt5 import QtWidgets, QtCore
 
 
 class SlowTask(QtCore.QThread):
-    updated = QtCore.pyqtSignal(int)
+    updated = QtCore.pyqtSignal(int, name='updated')
     running = False
 
     def __init__(self, *args, **kwargs):
