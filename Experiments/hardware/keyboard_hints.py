@@ -1,3 +1,4 @@
+import time
 from msvcrt import getch
 
 import keyboard
@@ -15,14 +16,14 @@ def on_board_func():
 def using_keyboard():
     while True:
         key = keyboard.get_hotkey_name()
-        if key == 'q':
+        if key == 'esc':
             print(f'Pushed the {keyboard.get_hotkey_name()}')
             break
         else:
             if key != '':
                 print(f'Pushed the {key} button')
+                time.sleep(1)
 
 
 if __name__ == '__main__':
-    on_board_func()
-    # using_keyboard()
+    using_keyboard()
