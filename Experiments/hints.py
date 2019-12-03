@@ -1,5 +1,5 @@
 # Formatting strings
-name = 'Stas'
+name = 'Star'
 age = 32
 f_string = f"My name is {name}, i am {age} years"
 print(f_string)
@@ -25,4 +25,4 @@ def some_function(any_type, string='', integer=0):
 
 # Next...
 if __name__ == '__main__':
-    print(some_function('Stas', 'years', 32))
+    print(some_function('Stars', 'years', 32))
