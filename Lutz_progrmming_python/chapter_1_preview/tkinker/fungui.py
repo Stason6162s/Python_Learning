@@ -8,7 +8,7 @@ colors = ['red', 'green', 'blue', 'yellow', 'cyan', 'purple']
 def on_spam():
     popup = Toplevel()
     color = random.choice(colors)
-    Label(popup, text='Popup', bg='black', fg='color').pack(fill=BOTH)
+    Label(popup, text='Popup', bg='black', fg=color).pack(fill=BOTH)
     main_label.config(fg=color)
 
 
