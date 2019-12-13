@@ -10,7 +10,6 @@ print(format_string)
 
 
 # Documentation of code
-
 def some_function(any_type, string='', integer=0):
     """
     The function print string from own arguments
